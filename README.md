@@ -1,4 +1,4 @@
-Algenix 🤖
+Algenix AI 🤖
 
 Prototype for AI Agents custom
 
