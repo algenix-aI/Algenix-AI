@@ -12,6 +12,6 @@ Algeix AI is a cutting-edge platform that merges Artificial Intelligence and Blo
 
 📌 Get Started Clone the Algeix AI repository and start building your decentralized AI solutions!
 
-📌 Designed, developed, and maintained by Hackthon. @Alvin Waseem
+📌 Designed, developed, and maintained by @Alvin Waseem
 
 © 2025 Dalva. All rights reserved.
