@@ -11,3 +11,7 @@ Algeix AI is a cutting-edge platform that merges Artificial Intelligence and Blo
 🚀 Use Cases: 🔹 Decentralized AI Marketplaces – Buy and sell AI models on-chain. 🔹 Trustworthy AI Audits – Verify AI-generated content with blockchain. 🔹 AI-Powered Smart Contracts – Automate intelligent blockchain transactions. 🔹 Secure Data Sharing – Federated AI learning with encrypted data exchange. 🔹 NFT & AI Art Generation – AI-created NFTs with verifiable authenticity.
 
 📌 Get Started Clone the Algeix AI repository and start building your decentralized AI solutions!
+
+📌 Designed, developed, and maintained by Hackthon. @Alvin Waseem
+
+© 2025 Dalva. All rights reserved.
